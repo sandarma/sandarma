@@ -30,4 +30,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://www.linkedin.com/in/sandar-min-aye)](https://www.linkedin.com/in/sandar-min-aye)
+[Linkedin](https://www.linkedin.com/in/sandar-min-aye)
