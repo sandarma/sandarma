@@ -1,33 +1,49 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Sandar, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+# Hi, I'm Sandar Min Aye 👋
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+Web and mobile app developer based in Auckland, New Zealand.
+I enjoy building clean, user-friendly applications and working across the full stack — from responsive front-ends to backend APIs and databases.
 
-- :computer: I'm a Fullstack Developer, currently exploring AI-driven development
-- :hourglass_flowing_sand: Exploring AWS & Vibe Coding
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Senior Application Developer at HL Assurance, Singapore
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+![Coder GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
-<h2 align="left">:heart: Let's get connected:</h2>
+---
 
-[Linkedin](https://www.linkedin.com/in/sandar-min-aye)
+## 🛠️ Tech Stack
+
+**Frontend**
+React.js · React Native · JavaScript · TypeScript · Redux · HTML · CSS
+
+**Backend**
+PHP · Laravel · RESTful APIs
+
+**Database**
+MySQL · MSSQL · MongoDB · Oracle
+
+**Tools & Platforms**
+Git · AWS · Firebase · Postman · Jira
+
+---
+
+## 📌 Project Highlights
+
+**Discover Myanmar — Cultural Learning Mobile App** _(Aug 2024 – Oct 2024)_
+An interactive mobile app for learning the Myanmar written script and culture. Built solo from scratch using React Native, TypeScript, and Firebase (MVVM architecture). Features an interactive canvas with real-time stroke scoring, gamification with badges and leaderboards, and secure user authentication.
+
+**Step in Style — Cross-Platform UI/UX Research App** _(Mar 2024 – May 2024)_
+A research-driven prototype exploring UI/UX challenges on cross-platform devices including foldable screens. Built with React Native, TypeScript, Zustand, and React Three Fiber for interactive 3D models. Tested on iOS and Android devices with qualitative feedback from 20 participants.
+
+**Xchange — Community Goods Marketplace** _(Apr 2024 – May 2024)_
+Led a four-person team to design and deliver a full-stack cloud web app in four weeks. Built with ReactJS (frontend), Laravel (RESTful API), and deployed on AWS using EC2, RDS (MySQL), and S3. Managed the team using Scrum/Jira and mentored members with limited development experience.
+
+---
+
+## 🌱 Currently
+
+- Recently completed my Master of Computer and Information Sciences at Auckland University of Technology (AUT)
+- Exploring cloud development (AWS), CI/CD, and AI tooling
+- Open to front-end, full-stack, or software engineer roles in New Zealand 🇳🇿
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandar--min--aye-blue?logo=linkedin)](https://www.linkedin.com/in/sandar-min-aye/)
