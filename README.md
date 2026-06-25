@@ -25,7 +25,7 @@ Git · AWS · Firebase · Postman · Jira · CI/CD
 
 ## 📌 Project Highlights
 
-**Interview Coach AI — AI-Powered Interview Practice Platform** _(Jun 2025)_
+**Interview Coach AI — AI-Powered Interview Practice Platform** _(Jun 2026)_
 Designed and built a full-stack AI coaching app to help developers practice
 explaining technical concepts under interview pressure. Built with React +
 TypeScript (frontend), Node.js/Express (backend), and Claude AI (Anthropic)
