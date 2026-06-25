@@ -13,17 +13,25 @@ I enjoy building clean, user-friendly applications and working across the full s
 React.js · React Native · JavaScript · TypeScript · Redux · HTML · CSS
 
 **Backend**
-PHP · Laravel · RESTful APIs
+PHP · Laravel · RESTful APIs · Express
 
 **Database**
 MySQL · MSSQL · MongoDB · Oracle
 
 **Tools & Platforms**
-Git · AWS · Firebase · Postman · Jira
+Git · AWS · Firebase · Postman · Jira · CI/CD
 
 ---
 
 ## 📌 Project Highlights
+
+**Interview Coach AI — AI-Powered Interview Practice Platform** _(Jun 2025)_
+Designed and built a full-stack AI coaching app to help developers practice
+explaining technical concepts under interview pressure. Built with React +
+TypeScript (frontend), Node.js/Express (backend), and Claude AI (Anthropic)
+as an evaluator subagent. Implemented RAG methodology using Google Sheets as
+a knowledge base, defined AI skills and agents using Claude Code, and
+configured MCP.
 
 **Discover Myanmar — Cultural Learning Mobile App** _(Aug 2024 – Oct 2024)_
 An interactive mobile app for learning the Myanmar written script and culture. Built solo from scratch using React Native, TypeScript, and Firebase (MVVM architecture). Features an interactive canvas with real-time stroke scoring, gamification with badges and leaderboards, and secure user authentication.
