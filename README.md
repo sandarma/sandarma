@@ -26,7 +26,7 @@ Git · AWS · Firebase · Postman · Jira · CI/CD
 ## 📌 Project Highlights
 
 **Kone Sone Sine — Community Fundraising Platform** _(Jul 2026)_
-Designed and built a full-stack fundraising event management platform to streamline food pre-orders for community fundraising events. Developed customer-facing features including event browsing, online ordering, payment screenshot upload, and order tracking, alongside organizer dashboards for order management, analytics, reporting, and secure invitation-based onboarding. Built with React + TypeScript (frontend), Express + Bun (backend), Prisma ORM, MySQL, and deployed using Netlify Serverless Functions and Aiven MySQL. Integrated AWS S3 object storage for payment uploads. Collaborated in an Agile team using GitHub Projects, Pull Requests, and code reviews.
+Designed and built a full-stack fundraising event management platform to streamline food pre-orders for community fundraising events. Developed customer-facing features including event browsing, online ordering, payment screenshot upload, and order tracking, alongside organizer dashboards for order management, analytics, reporting, and secure invitation-based onboarding. Built with React + TypeScript (frontend), Express (backend), Prisma ORM, MySQL, and deployed using Netlify Serverless Functions and Aiven MySQL. Integrated AWS S3 object storage for payment uploads. Collaborated in an Agile team using GitHub Projects, Pull Requests, and code reviews.
 
 **Interview Coach AI — AI-Powered Interview Practice Platform** _(Jun 2026)_
 Designed and built a full-stack AI coaching app to help developers practice
