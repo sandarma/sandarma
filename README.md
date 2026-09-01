@@ -25,8 +25,10 @@ Git · AWS · Firebase · Postman · Jira · CI/CD
 
 ## 📌 Project Highlights
 
+**NZSettle — Newcomers Assistance Platform for New Zealand** (Aug 2026 — in progress) Designed and building a full-stack platform to help international newcomers to New Zealand settle in — from finding accommodation and arranging property viewings to coordinating airport pickups. Currently in active development with 25 GitHub Issues across 3 phases. [Repo](https://github.com/sandarma/nzsettle)
+
 **Kone Sone Sine — Community Fundraising Platform** _(Jul 2026)_
-Designed and built a full-stack fundraising event management platform to streamline food pre-orders for community fundraising events. Developed customer-facing features including event browsing, online ordering, payment screenshot upload, and order tracking, alongside organizer dashboards for order management, analytics, reporting, and secure invitation-based onboarding. Built with React + TypeScript (frontend), Express (backend), Prisma ORM, MySQL, and deployed using Netlify Serverless Functions and Aiven MySQL. Integrated AWS S3 object storage for payment uploads. Collaborated in an Agile team using GitHub Projects, Pull Requests, and code reviews.
+Designed and built a full-stack fundraising event management platform to streamline food pre-orders for community fundraising events. Developed customer-facing features including event browsing, online ordering, payment screenshot upload, and order tracking, alongside organizer dashboards for order management, analytics, reporting, and secure invitation-based onboarding. Built with React + TypeScript (frontend), Express (backend), Prisma ORM, MySQL, and deployed using Netlify Serverless Functions and Aiven MySQL. Integrated AWS S3 object storage for payment uploads. Collaborated in an Agile team using GitHub Projects, Pull Requests, and code reviews. [Repo](https://github.com/sandarma/Nway-Oo-Bazaar)
 
 **Interview Coach AI — AI-Powered Interview Practice Platform** _(Jun 2026)_
 Designed and built a full-stack AI coaching app to help developers practice
@@ -34,7 +36,7 @@ explaining technical concepts under interview pressure. Built with React +
 TypeScript (frontend), Node.js/Express (backend), and Claude AI (Anthropic)
 as an evaluator subagent. Implemented RAG methodology using Google Sheets as
 a knowledge base, defined AI skills and agents using Claude Code, and
-configured MCP.
+configured MCP. Repo Link: [Repo](https://github.com/sandarma/Interview-Coach-AI)
 
 **Discover Myanmar — Cultural Learning Mobile App** _(Aug 2024 – Oct 2024)_
 An interactive mobile app for learning the Myanmar written script and culture. Built solo from scratch using React Native, TypeScript, and Firebase (MVVM architecture). Features an interactive canvas with real-time stroke scoring, gamification with badges and leaderboards, and secure user authentication.
